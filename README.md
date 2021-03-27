@@ -1,0 +1,1 @@
+https://codesk.tistory.com/entry/%EB%B0%94%EB%AF%B8-Nestjs-%EB%B0%8F-TypeScript%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-AWS-S3%EC%97%90-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C
