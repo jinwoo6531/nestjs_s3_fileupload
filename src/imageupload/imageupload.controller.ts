@@ -8,6 +8,8 @@ export class ImageuploadController {
 
   @Post()
   async createPost(@Req() req, @Res() res) {
+    console.log(req);
+
     try {
       await this.imageUploadService.fileupload(req, res);
     } catch (error) {
